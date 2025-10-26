@@ -1,4 +1,4 @@
-# Advanced Linux IDS
+#  Linux Security & Intrusion Detection System (IDS)
 
 ## Overview
 Advanced Linux IDS is a Python-based Intrusion Detection System (IDS) for Linux servers. It monitors login attempts via `/var/log/auth.log`, automatically blocks malicious IPs using UFW, and sends email alerts when an IP is blocked.  
